@@ -1,4 +1,4 @@
-# fastcampus-RecSys
+# fastcampus-RecSys fork
 
 ### 패스트캠퍼스 추천시스템 A to Z
 
